@@ -1,5 +1,5 @@
 
-# Llama3 Personalization
+# Llama3 Personalized Email Writing
 
 While large language models hold potential to automate many time consuming day-to-day tasks, general LLM responses tend to lack personality and are often easily detected as being "AI-generated." By scraping personal sent emails using GMail's API and fine-tuning Meta's Llama3-8B model, this project aims to create an email chatbot that captures the unique voice of the user.
 
