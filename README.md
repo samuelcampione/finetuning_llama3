@@ -18,8 +18,8 @@ The goal of this project is to create a personalized chatbot for email generatio
 
 1. Clone the repository:
    ```bash
-   https://github.com/samuelcampione/finetuning_llama3.git
-   cd finetuning_llama3
+   https://github.com/samuelcampione/personalized_llama3.git
+   cd personalized_llama3
    ```
 
 2. Set up Gmail API credentials by following [this guide](https://developers.google.com/gmail/api/quickstart/python).
